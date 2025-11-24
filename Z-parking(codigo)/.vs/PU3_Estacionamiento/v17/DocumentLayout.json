@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\frmsalidavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frmsalidavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\pu3_estacionamiento\\frmsalidavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frmsalidavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\pu3_estacionamiento\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\clases\\controlarduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\clases\\controlarduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\clases\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\clases\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\clases\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\clases\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\clases\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\clases\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\clases\\espacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\clases\\espacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\frmcontrolestacionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frmcontrolestacionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\pu3_estacionamiento\\frmcontrolestacionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frmcontrolestacionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\pu3_estacionamiento\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|c:\\users\\w10\\downloads\\proyecto_avance (1)\\proyecto_avance\\proyectou3-estacionamiento\\pu3_estacionamiento\\frmregistrarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frmregistrarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\pu3_estacionamiento\\frmregistrarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58D36E7E-ED6E-44FD-AEEF-829AB2757C3B}|PU3_Estacionamiento\\PU3_Estacionamiento.csproj|solutionrelative:pu3_estacionamiento\\frmregistrarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Program.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\Program.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Program.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:54:21.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSalidaVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmSalidaVehiculo.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmSalidaVehiculo.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmSalidaVehiculo.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\frmSalidaVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:54:54.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSalidaVehiculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmSalidaVehiculo.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmSalidaVehiculo.cs",
+              "ToolTip": "C:\\Users\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmSalidaVehiculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmSalidaVehiculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:54:45.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmInicio.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:21:46.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmInicio.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmInicio.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\frmInicio.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:21:58.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\Conductor.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\Clases\\Conductor.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\Conductor.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\Clases\\Conductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T00:38:29.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlArduino.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\ControlArduino.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\Clases\\ControlArduino.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\ControlArduino.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\Clases\\ControlArduino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T00:38:23.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnvioCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\EnvioCorreo.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\Clases\\EnvioCorreo.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\EnvioCorreo.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\Clases\\EnvioCorreo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T00:38:27.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\Clases\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\Vehiculo.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\Clases\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T00:38:26.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Espacio.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\Espacio.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\Clases\\Espacio.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\Espacio.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\Clases\\Espacio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T00:38:25.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConexionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\ConexionSQL.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\Clases\\ConexionSQL.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\Clases\\ConexionSQL.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\Clases\\ConexionSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:42:14.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmPrincipal.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\frmPrincipal.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:12:53.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmControlEstacionamiento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmControlEstacionamiento.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmControlEstacionamiento.cs",
+              "ToolTip": "C:\\Users\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmControlEstacionamiento.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmControlEstacionamiento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:54:16.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmControlEstacionamiento.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmControlEstacionamiento.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmControlEstacionamiento.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmControlEstacionamiento.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\frmControlEstacionamiento.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAqwPgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:54:18.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:12:52.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmRegistrarVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmRegistrarVehiculo.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmRegistrarVehiculo.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmRegistrarVehiculo.cs",
+              "RelativeToolTip": "PU3_Estacionamiento\\frmRegistrarVehiculo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:27:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmRegistrarVehiculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\frmRegistrarVehiculo.cs",
+              "RelativeDocumentMoniker": "PU3_Estacionamiento\\frmRegistrarVehiculo.cs",
+              "ToolTip": "C:\\Users\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmRegistrarVehiculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\piero\\Desktop\\Nueva carpeta - copia\\PU3_Estacionamiento\\frmRegistrarVehiculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:23:33.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

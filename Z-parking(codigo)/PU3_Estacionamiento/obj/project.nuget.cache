@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDuep2XhmAM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\W10\\Downloads\\PROYECTO_AVANCE (1)\\PROYECTO_AVANCE\\ProyectoU3-Estacionamiento\\PU3_Estacionamiento\\PU3_Estacionamiento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\10.0.0\\runtime.android-arm.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\10.0.0\\runtime.android-arm64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\10.0.0\\runtime.android-x64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\10.0.0\\runtime.android-x86.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\10.0.0\\runtime.linux-arm.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\10.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\10.0.0\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\10.0.0\\runtime.linux-bionic-x64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\10.0.0\\runtime.linux-musl-arm.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\10.0.0\\runtime.linux-musl-arm64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\10.0.0\\runtime.linux-musl-x64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\10.0.0\\runtime.linux-x64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\10.0.0\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\10.0.0\\runtime.maccatalyst-x64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.native.system.io.ports\\10.0.0\\runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\10.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\10.0.0\\runtime.osx-x64.runtime.native.system.io.ports.10.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\system.io.ports\\10.0.0\\system.io.ports.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

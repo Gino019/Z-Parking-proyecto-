@@ -1,0 +1,125 @@
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.exe
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.deps.json
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.runtimeconfig.json
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.pdb
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.csproj.GenerateResource.cache
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.AssemblyInfoInputs.cache
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.AssemblyInfo.cs
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\refint\PU3_Estacionamiento.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.pdb
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.genruntimeconfig.cache
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\ref\PU3_Estacionamiento.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmInicio.resources
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmBoleta.resources
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmControlEstacionamiento.resources
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmPrincipal.resources
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmRegistrarVehiculo.resources
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmSalidaVehiculo.resources
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\piero\source\repos\PU3_Estacionamiento\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Esta.1D1E881C.Up2Date
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.exe
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.deps.json
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.runtimeconfig.json
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.pdb
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmBoleta.resources
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmControlEstacionamiento.resources
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmInicio.resources
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmPrincipal.resources
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmRegistrarVehiculo.resources
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmSalidaVehiculo.resources
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.csproj.GenerateResource.cache
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.AssemblyInfoInputs.cache
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.AssemblyInfo.cs
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Esta.1D1E881C.Up2Date
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\refint\PU3_Estacionamiento.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.pdb
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.genruntimeconfig.cache
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\ref\PU3_Estacionamiento.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\piero\Desktop\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.exe
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.deps.json
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.runtimeconfig.json
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\PU3_Estacionamiento.pdb
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmBoleta.resources
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmControlEstacionamiento.resources
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmInicio.resources
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmPrincipal.resources
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmRegistrarVehiculo.resources
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.frmSalidaVehiculo.resources
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.csproj.GenerateResource.cache
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.AssemblyInfoInputs.cache
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.AssemblyInfo.cs
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Esta.1D1E881C.Up2Date
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\refint\PU3_Estacionamiento.dll
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.pdb
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\PU3_Estacionamiento.genruntimeconfig.cache
+C:\Users\Ayleen Esperilla\Desktop\proyecto arq\Nueva carpeta - copia\PU3_Estacionamiento\obj\Debug\net8.0-windows\ref\PU3_Estacionamiento.dll
