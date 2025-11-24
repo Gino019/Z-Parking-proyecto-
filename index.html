@@ -2,12 +2,69 @@
 <html>
 <head>
     <title>Sistema de Estacionamiento - C#</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .azure-section { background: #0078D4; color: white; padding: 20px; border-radius: 10px; margin: 20px 0; }
+        .query-section { background: #f0f0f0; padding: 20px; border-radius: 10px; margin: 20px 0; }
+        table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #0078D4; color: white; }
+    </style>
 </head>
 <body>
-    <h1>Sistema de Estacionamiento</h1>
-    <p>✅ Base de datos Azure SQL conectada</p>
-    <p>🔧 Aplicación Windows Forms desarrollada en C#</p>
-    <p>📁 <a href="https://github.com/TU-USUARIO/TU-REPOSITORIO">Código fuente en GitHub</a></p>
-    <p>💾 <a href="https://github.com/TU-USUARIO/TU-REPOSITORIO/releases">Descargar aplicación .exe</a></p>
+    <h1>🚗 Sistema de Estacionamiento</h1>
+    
+    <div class="azure-section">
+        <h2>☁️ Infraestructura Azure Desplegada</h2>
+        
+        <h3>🗄️ Base de Datos SQL</h3>
+        <ul>
+            <li><strong>Servidor:</strong> svereflores.database.windows.net</li>
+            <li><strong>Base de datos:</strong> DBEstacionamiento</li>
+            <li><strong>Ubicación:</strong> West US 2</li>
+            <li><strong>Estado:</strong> ✅ Online</li>
+        </ul>
+    </div>
+
+    <div class="query-section">
+        <h2>🔍 Consultar Base de Datos</h2>
+        <p><strong>Credenciales de prueba para el ingeniero:</strong></p>
+        <ul>
+            <li><strong>Servidor:</strong> svereflores.database.windows.net</li>
+            <li><strong>Base de datos:</strong> DBEstacionamiento</li>
+            <li><strong>Usuario:</strong> [crear uno específico para el ingeniero]</li>
+            <li><strong>Contraseña:</strong> [contraseña temporal]</li>
+        </ul>
+        
+        <h3>📋 Tablas disponibles:</h3>
+        <ul>
+            <li>🔹 Vehiculos</li>
+            <li>🔹 Clientes</li>
+            <li>🔹 Espacios</li>
+            <li>🔹 Registros</li>
+            <li>🔹 Tarifas</li>
+        </ul>
+        
+        <h3>🔗 Conectar con:</h3>
+        <p>
+            <a href="https://portal.azure.com" target="_blank">Azure Portal</a> | 
+            <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank">SSMS</a> | 
+            <a href="https://azure.microsoft.com/en-us/products/data-studio/" target="_blank">Azure Data Studio</a>
+        </p>
+    </div>
+
+    <h2>📝 Consultas SQL de ejemplo:</h2>
+    <pre>
+-- Ver todos los vehículos
+SELECT * FROM Vehiculos;
+
+-- Ver espacios ocupados
+SELECT * FROM Espacios WHERE estado = 'Ocupado';
+
+-- Consultar registros del día
+SELECT * FROM Registros WHERE fecha = CAST(GETDATE() AS DATE);
+    </pre>
+
+    <p>📁 <a href="https://github.com/TU-USUARIO-REAL/z-parking-proyectazo">Código fuente en GitHub</a></p>
 </body>
 </html>
