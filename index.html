@@ -5,18 +5,29 @@
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; }
         .azure-section { background: #0078D4; color: white; padding: 20px; border-radius: 10px; margin: 20px 0; }
-        .query-section { background: #f0f0f0; padding: 20px; border-radius: 10px; margin: 20px 0; }
+        .docs-section { background: #28a745; color: white; padding: 20px; border-radius: 10px; margin: 20px 0; }
         .screenshot { max-width: 800px; border: 2px solid #0078D4; border-radius: 10px; margin: 15px 0; }
+        .doc-link { 
+            display: block; 
+            background: white; 
+            color: #28a745; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            text-decoration: none;
+            border: 1px solid #ddd;
+        }
+        .doc-link:hover { background: #f8f9fa; }
     </style>
 </head>
 <body>
-    <h1>🚗 Sistema de Estacionamiento</h1>
+    <h1>🚗 Sistema de Estacionamiento - Z-Parking</h1>
     
     <div class="azure-section">
         <h2>☁️ Infraestructura Azure Desplegada</h2>
         
-        <!-- AGREGAR IMAGEN AQUÍ -->
-        <h3>📸 Captura del Servidor Azure SQL</h3>
+        <!-- IMAGEN DE AZURE -->
+        <h3>📸 Servidor Azure SQL</h3>
         <img src="images/azure-servidor.png" alt="Servidor Azure SQL" class="screenshot">
         
         <h3>🗄️ Base de Datos SQL</h3>
@@ -28,10 +39,34 @@
         </ul>
     </div>
 
-    <!-- Resto de tu contenido... -->
-    
-    <h2>📁 Repositorio y Descargas</h2>
-    <!-- LINK -->
+    <!-- NUEVA SECCIÓN DE DOCUMENTOS -->
+    <div class="docs-section">
+        <h2>📚 Documentación del Proyecto</h2>
+        
+        <h3>📋 Fases de Desarrollo</h3>
+        <a href="docs/FD01 - Informe de Factibilidad.pdf" class="doc-link" target="_blank">
+            📄 FD01 - Informe de Factibilidad
+        </a>
+        <a href="docs/FD02 - Informe de Visión.pdf" class="doc-link" target="_blank">
+            📄 FD02 - Informe de Visión
+        </a>
+        <a href="docs/FD03 - Informe de Especificación de Requerimientos.pdf" class="doc-link" target="_blank">
+            📄 FD03 - Especificación de Requerimientos
+        </a>
+        <a href="docs/FD04 - Informe de Arquitectura de Software.pdf" class="doc-link" target="_blank">
+            📄 FD04 - Arquitectura de Software
+        </a>
+        <a href="docs/FD05 - Informe de Final de Proyecto" class="doc-link" target="_blank">
+            📄 FD05 - Informe Final de Proyecto
+        </a>
+    </div>
+
+    <h2>📁 Repositorio</h2>
     <p>📁 <a href="https://github.com/Gino019/Z-Parking-proyecto-" target="_blank">Código fuente en GitHub</a></p>
+    
+    <h2>🔧 Aplicación Windows Forms</h2>
+    <p>✅ Desarrollada en C# .NET</p>
+    <p>✅ Conectada a Azure SQL Database</p>
+    <p>✅ Sistema completo de gestión de estacionamiento</p>
 </body>
 </html>
