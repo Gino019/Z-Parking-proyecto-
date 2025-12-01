@@ -3,9 +3,10 @@
 <head>
     <title>Sistema de Estacionamiento - C#</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; }
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f5f5f5; }
         .azure-section { background: #0078D4; color: white; padding: 20px; border-radius: 10px; margin: 20px 0; }
         .docs-section { background: #28a745; color: white; padding: 20px; border-radius: 10px; margin: 20px 0; }
+        .video-section { background: #FF0000; color: white; padding: 20px; border-radius: 10px; margin: 20px 0; }
         .screenshot { max-width: 800px; border: 2px solid #0078D4; border-radius: 10px; margin: 15px 0; }
         .doc-link { 
             display: block; 
@@ -18,6 +19,44 @@
             border: 1px solid #ddd;
         }
         .doc-link:hover { background: #f8f9fa; }
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 800px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 10px;
+        }
+        .video-link {
+            display: inline-block;
+            background: white;
+            color: #FF0000;
+            padding: 12px 20px;
+            margin: 10px 0;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            border: 1px solid #ddd;
+            transition: all 0.3s ease;
+        }
+        .video-link:hover {
+            background: #f8f9fa;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 { color: #333; border-bottom: 3px solid #0078D4; padding-bottom: 10px; }
+        h2 { margin-top: 30px; }
+        footer { margin-top: 40px; text-align: center; color: #666; padding-top: 20px; border-top: 1px solid #ddd; }
     </style>
 </head>
 <body>
@@ -36,6 +75,27 @@
             <li><strong>Ubicación:</strong> West US 2</li>
             <li><strong>Estado:</strong> ✅ Online</li>
         </ul>
+    </div>
+
+    <div class="video-section">
+        <h2>🎥 Demostración en Video</h2>
+        <p>Aquí puedes ver una explicación completa del funcionamiento del sistema Z-Parking:</p>
+        
+        <!-- Contenedor responsivo para el video de YouTube -->
+        <div class="video-container">
+            <iframe 
+                src="https://www.youtube.com/embed/6PUw1280oLM" 
+                title="Explicación del Sistema Z-Parking" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen>
+            </iframe>
+        </div>
+        
+        <p>También puedes verlo directamente en YouTube:</p>
+        <a href="https://youtu.be/6PUw1280oLM" class="video-link" target="_blank">
+            ▶️ Ver video completo en YouTube
+        </a>
     </div>
 
     <div class="docs-section">
@@ -68,8 +128,9 @@
     <p>✅ Conectada a Azure SQL Database</p>
     <p>✅ Sistema completo de gestión de estacionamiento</p>
 
-    <footer style="margin-top: 40px; text-align: center; color: #666;">
-        <p>Proyecto de Estacionamiento Z-Parking - Universidad [Tu Universidad]</p>
+    <footer>
+        <p>Proyecto de Estacionamiento Z-Parking - Universidad Privada de Tacna </p>
+        <p style="font-size: 0.9em; margin-top: 10px;">📧 Contacto: ef2023076793@virtual.upt.pe | 📱 Teléfono: 993599305</p>
     </footer>
 </body>
 </html>
